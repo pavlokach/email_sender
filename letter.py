@@ -5,7 +5,7 @@ import sendgrid
 class Letter:
     # using SendGrid's Python Library
     # https://github.com/sendgrid/sendgrid-python
-    mykey = "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"
+
 
 
     from_email = Email("charlie.f@trendyrhino.com")
